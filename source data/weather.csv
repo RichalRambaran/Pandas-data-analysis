@@ -1,0 +1,9 @@
+city,tem,windspeed,weather, rainfall
+Amsterdam,3,6,Rain,11
+Amsterdam,-1,7,Fog,0.1
+Amsterdam,8,12,Rain,12
+Amsterdam,11,7,Sunny,1
+Kuala Lumpur,25,15,Sunny,13
+Kuala Lumpur,29,12,Sunny,15
+Kuala Lumpur,28,15,Rain,28
+Kuala Lumpur,30,5,Rain,25
